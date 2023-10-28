@@ -1,0 +1,3 @@
+NOTIFICATIONS_METHOD = "Telegram"
+TELEGRAM_API_KEY = "twitter.com/levbeta"
+TELEGRAM_USER_ID = "twitter.com/levbeta"
