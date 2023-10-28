@@ -10,6 +10,9 @@ This project is a simple tool for monitoring and notifying users about updates t
 - Sends notifications to users via Telegram.
 - Easily extendable to support other exchanges and notification methods in the future. (More easily in the next versions)
 
+![image](https://github.com/LevBeta/Exchange-Api-Changelog/assets/105949605/65f39a84-965d-43f4-a1bd-fab6b9f38f7f)
+
+
 ## TO-DO
 
 Currently, the monitoring system updates only once every 24 hours. To provide more timely updates, we need to adjust the script to poll for changes at shorter intervals. So the logic behing checking updates will have to change
